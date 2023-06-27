@@ -1,0 +1,353 @@
+[
+	{
+		"name": "GreenLeaf Bistro",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-greenleaf-bistro.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Veggie Delight",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-veggie-delight.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "The Herbivore Cafe",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-harvest-house.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Leafy Greens Kitchen",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "restahttps://devpass-api-bucket.s3.amazonaws.com/meatless/logo-leafy-greens-kitchen.pngurant4",
+		"menu": [
+		{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Plant-Based Plate",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-plant-based-plate.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "The Veggie Patch",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-the-veggie-patch.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Garden Grub",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-garden-grub.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Earthly Eats",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-earthly-eats.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	},
+	{
+		"name": "Vegout Kitchen",
+		"distance": "2.9 km",
+		"status": "Open until 10:30 PM",
+		"openDays": "Delivery from Mon to Fri",
+		"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/logo-vegan-kitchen.png",
+		"menu": [
+			{
+				"name": "Green Goddess Juice",
+				"price": 6.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/green-juice.png"
+			},
+			{
+				"name": "Berry Blast",
+				"price": 7.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/berry-blast.png"
+			},
+			{
+				"name": "Tempeh Teriyaki Bowl",
+				"price": 12.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/tempeh-teriyaki.png"
+			},
+			{
+				"name": "Quinoa Salad with Roasted Vegetables",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/quinoa-salad.png"
+			},
+			{
+				"name": "Portobello Mushroom Burger with Sweet Potato Fries",
+				"price": 13.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/burger.png"
+			},
+			{
+				"name": "Zucchini Noodle Pad Thai",
+				"price": 9.99,
+				"image": "https://devpass-api-bucket.s3.amazonaws.com/meatless/zucchini-pad-thai.png"
+			}
+		]
+	}
+]
